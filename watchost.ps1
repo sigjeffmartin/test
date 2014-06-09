@@ -41,6 +41,7 @@
         Writes the host status to the console as a string, with a timestamp.
 
                                 Audible console beep or spoken text.
+	Addition 1
 
 #>
 
